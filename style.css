@@ -65,15 +65,56 @@ nav {
 
  @media only screen 
 and (min-device-width : 768px) 
-and (max-device-width : 1024px)  { 
+and (max-device-width : 1024px)  {
 
-  .w3-button {margin-left: 0%;}
+  .third {
+    margin-left:50%;
+  }
 
-.navstuff {/* margin-left: 92%; */}
+  .portfolio-heading{
+    margin-right:20%;
+  }
+
+  .w3-panel{
+    margin-right:20%;
+  }
+
+  .projectImage{
+    margin-bottom:20% ;
+  }
+
+
+
+  .col-md-6 {
+    margin-left: 67%;
+}
+
+.backgroundContainerContact{
+  margin-left:38%;
+}
+
+.contacttext{
+  margin-right:6%;
+}
+
+.col-sm-6 {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 9%;
+}
+
+  .w3-button {margin-left: 20%;}
+
+.navstuff { margin-left: 16%; }
+
+.First{
+  margin-left:36%;
+}
 
 .footermedia{
     margin-left: -15%;
-    width: 164%;
+      width:180%;
+      text-align:center;
 }
 
 .navbar-logo{
@@ -83,11 +124,19 @@ and (max-device-width : 1024px)  {
 }
 .w3-dropdown-hover{margin-left: 57%;margin-top: 22px;}
 .video-container{
-    width: 158%;
+    width: 165%;
 }
 
 body {}
 .overall {margin-top: 29%;margin-left: 34%;}
+
+.jumbotron{
+margin-left:40%;
+}
+
+.pFooter{
+  margin-left:5%;
+}
 
 }
 
