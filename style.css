@@ -16,6 +16,10 @@ nav {
   padding-right:10%;
 }
 
+.desc {
+  width:70%;
+}
+
 .navbar-right a{
   text-decoration:none;
   padding:10px;
